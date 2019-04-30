@@ -4,6 +4,7 @@ From [this Stackoverflow](https://stackoverflow.com/questions/17008472/how-to-mi
 
 ## Setup
 
+0. make sure you hava grunt installed (`npm install -g grunt`)
 1. `npm install`
 2. done
 
